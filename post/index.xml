@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sore Achilles</title>
+    <link>https://soreachilles.com/post/</link>
+    <description>Recent content in Posts on Sore Achilles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Apr 2025 08:58:16 -0700</lastBuildDate>
+    <atom:link href="https://soreachilles.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post New Blog</title>
+      <link>https://soreachilles.com/post/first-post/</link>
+      <pubDate>Tue, 01 Apr 2025 08:58:16 -0700</pubDate>
+      <guid>https://soreachilles.com/post/first-post/</guid>
+      <description>&lt;p&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;figure&gt;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;a href=&#34;https://soreachilles.com/post/first-post/plane.jpg&#34;&gt;&#xD;&#xA;    &lt;picture&gt;&#xD;&#xA;      &lt;source srcset=&#34;https://soreachilles.com/post/first-post/plane_hu_7d0ca90530f17d67.webp&#34; type=&#34;image/webp&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;https://soreachilles.com/post/first-post/plane_hu_c3e2898c8a6fe513.jpg&#34; alt=&#34;an airplane&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; width=&#34;960&#34; height=&#34;639&#34; /&gt;&#xD;&#xA;    &lt;/picture&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;  &lt;figcaption&gt;It&amp;rsquo;s an airplane&lt;/figcaption&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;heading-level-1&#34;&gt;Heading level 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-level-2&#34;&gt;Heading level 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-level-3&#34;&gt;Heading level 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-level-4&#34;&gt;Heading level 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-level-5&#34;&gt;Heading level 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-level-6&#34;&gt;Heading level 6&lt;/h6&gt;&#xA;&lt;h1 id=&#34;heading-level-1-1&#34;&gt;Heading level 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-level-2-1&#34;&gt;Heading level 2&lt;/h2&gt;&#xA;&lt;p&gt;What does a table look like?&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;I spent a lot of money&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;And I spent a lot&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;of time. The trip to Hollywood is etched upon my mind&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;You&amp;rsquo;ve been telling me&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;You&amp;rsquo;re a genius&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Since you were seventeen&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;That&amp;rsquo;s actually not super easy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
