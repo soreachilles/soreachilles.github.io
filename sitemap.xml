@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://soreachilles.com/post/first-post/</loc>
-    <lastmod>2025-04-01T08:58:16-07:00</lastmod>
-  </url><url>
     <loc>https://soreachilles.com/post/</loc>
-    <lastmod>2025-04-01T08:58:16-07:00</lastmod>
+    <lastmod>2025-04-04T19:40:32-07:00</lastmod>
   </url><url>
     <loc>https://soreachilles.com/</loc>
+    <lastmod>2025-04-04T19:40:32-07:00</lastmod>
+  </url><url>
+    <loc>https://soreachilles.com/post/4-4-25-snowshoe/</loc>
+    <lastmod>2025-04-04T19:40:32-07:00</lastmod>
+  </url><url>
+    <loc>https://soreachilles.com/post/first-post/</loc>
     <lastmod>2025-04-01T08:58:16-07:00</lastmod>
   </url><url>
     <loc>https://soreachilles.com/about/</loc>
